@@ -1,0 +1,18 @@
+.parent{
+
+    -fx-background-image:url(../../com/image/login.png);
+}
+.txt-fields{
+    -fx-background-color: transparent;
+}
+.vbox{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 3px;
+}
+.txt-color{
+    -fx-text-fill: #999999;
+}
+.wid{
+/*     -fx-background-image:url(../../com/image/spalsh.png);*/
+        -fx-background-color: #ffffff;
+}
