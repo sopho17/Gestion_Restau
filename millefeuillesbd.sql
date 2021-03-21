@@ -125,3 +125,19 @@ create table users(
      idperson int,
      constraint fkuser foreign key(idperson)references personnel(idPerso)
 );
+
+
+
+
+
+---------------Outils cuisine
+------------------------Outils Clients
+------------Fournisseurs------------------
+-----------------Client---------------------
+
+
+
+
+
+--------------Triggers anti udpdate
+---------check constraint
